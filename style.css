@@ -1,0 +1,35 @@
+nav .navbar-nav li a {
+  color: white !important;
+}
+body {
+  background-color: #f1f1f1;
+  color: black;
+}
+.section-first {
+  min-height: 200px;
+}
+.section-second {
+  min-height: 200px;
+}
+
+.card-header {
+  height: 40px !important;
+}
+#side-list {
+  margin: 0px;
+}
+#side-list {
+  height: 300px;
+}
+#side-list {
+  overflow: hidden;
+  overflow-y: scroll;
+}
+#side-list li {
+  background-color: #f1f1f1;
+  width: 100%;
+  border-bottom: 1px solid #a7a5a5;
+}
+#side-list li i {
+  color: red;
+}
